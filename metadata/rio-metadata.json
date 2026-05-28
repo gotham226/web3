@@ -1,0 +1,13 @@
+{
+  "name": "Rio de Janeiro",
+  "description": "Vue panoramique de Rio de Janeiro avec le Christ Redempteur, le Pain de Sucre et la baie de Guanabara. Premier NFT de la collection WorldLandscapes - Atelier Web 3 HEG Mai 2026.",
+  "image": "https://raw.githubusercontent.com/TON_USER/TON_REPO/main/images/b94c7c8515de2d5255122338af9e7cf53952d38fdb04378e020d30c8c67e50a8.png",
+  "attributes": [
+    {"trait_type": "Country", "value": "Brazil"},
+    {"trait_type": "City", "value": "Rio de Janeiro"},
+    {"trait_type": "Landmark", "value": "Christ the Redeemer"},
+    {"trait_type": "Continent", "value": "South America"},
+    {"trait_type": "Collection", "value": "WorldLandscapes"},
+    {"trait_type": "Edition", "value": "Gabriel"}
+  ]
+}
